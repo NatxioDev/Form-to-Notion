@@ -1,19 +1,15 @@
-# notion-form
+# Form to Notion
 
-## Project setup
-```
-npm install
-```
+Formulario de creacion de tareas para la creacion de nuevos atributos en una base de datos de Notion.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Todo
 
-### Compiles and minifies for production
-```
-npm run build
-```
+[ ] Connect Notion API
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+[ ] Select Database 
+
+[ ] Do form 
+
+[ ] Test integration
+
+[ ] Solve bugs
