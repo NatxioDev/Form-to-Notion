@@ -4,12 +4,12 @@ Formulario de creacion de tareas para la creacion de nuevos atributos en una bas
 
 ## Todo
 
-[ ] Connect Notion API
+[_] Connect Notion API
 
-[ ] Select Database 
+[_] Select Database 
 
-[ ] Do form 
+[_] Do form 
 
-[ ] Test integration
+[_] Test integration
 
-[ ] Solve bugs
+[_] Solve bugs
